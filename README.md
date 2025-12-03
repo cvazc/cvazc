@@ -1,6 +1,6 @@
 ### Hi there! I'm Sebastian 👋
 
-I'm a **Full Stack Developer** based in Guadalajara, Mexico. I specialize in building scalable, cloud-native web applications using the latest Microsoft stack.
+I'm a **Full Stack Developer** based in Guadalajara, Mexico. I specialize in building scalable, cloud-native web applications using the latest Microsoft stack, with a solid background in PHP e-commerce solutions.
 
 - 🔭 I’m currently working on: **Cloud-Native Enterprise Apps with .NET 8 & Angular 18**
 - 🤝 I’m looking to collaborate on: **Open Source .NET projects or Cloud Architecture**
@@ -14,6 +14,8 @@ I'm a **Full Stack Developer** based in Guadalajara, Mexico. I specialize in bui
 **Backend & Cloud**
 ![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
