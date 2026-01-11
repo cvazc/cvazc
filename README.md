@@ -54,7 +54,4 @@ Most of my repositories focus on:
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cvazc&show_icons=true&hide_border=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvazc&layout=compact&hide_border=true&theme=radical" width="400"/>
-</p>
+[![Cvazc's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvazc)](https://github.com/cvazc/github-readme-stats)
