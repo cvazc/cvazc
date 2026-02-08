@@ -60,4 +60,4 @@ Most of my repositories focus on:
 
 ## 📊 GitHub Stats
 
-[![Cvazc's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvazc)](https://github.com/cvazc/github-readme-stats)
+[![rootsebas GitHub stats](https://github-readme-stats.vercel.app/api?username=rootsebas)](https://github.com/rootsebas/github-readme-stats)
